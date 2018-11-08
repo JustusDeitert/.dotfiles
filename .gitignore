@@ -1,0 +1,12 @@
+# System files & folders
+.DS_store
+.DS_Store?
+._*
+.idea
+.ssh
+
+# ------------------------------>
+# Dont want this on Github
+setup_osxdefaults.sh
+readmore.md
+Smyck.terminal

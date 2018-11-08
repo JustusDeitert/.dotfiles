@@ -35,11 +35,13 @@ Feel free to Customize the installer & add .dotfiles like `.zshrc` after your ne
 ## What's included?
 Here is a small list of what is going to be installed so far:
 
-#### .installer/setup_system.sh
+### System Setup
+##### .installer/setup_system.sh
 * [Oh-My-Zsh](https://ohmyz.sh/) 
 * [Homebrew](https://brew.sh/)
 
-#### .installer/brews.sh
+### Brews 
+##### .installer/brews.sh
 * [php71](http://php.net/)
 * [composer](https://getcomposer.org/)
 * [mysql](https://www.mysql.com)
@@ -48,7 +50,8 @@ Here is a small list of what is going to be installed so far:
 * [ruby](https://www.ruby-lang.org)
 * [rbenv](http://rbenv.org/)
 
-#### .installer/node_modules.sh
+### Node Modules 
+##### .installer/node_modules.sh
 * [webpack](https://webpack.js.org/)
 * [grunt-cli](https://gruntjs.com)
 * [gulp](https://gulpjs.com/)
@@ -57,7 +60,8 @@ Here is a small list of what is going to be installed so far:
 * [generator-webapp](http://yeoman.io/generators/)
 * [node-sass](https://github.com/sass/node-sass)
 
-#### .installer/brew_casks.sh
+### Brew Casks 
+##### .installer/brew_casks.sh
 * [google-chrome](https://www.google.com/intl/de_ALL/chrome/)
 * [firefox](https://www.mozilla.org/firefox)
 * [skype](https://www.skype.com)
@@ -75,7 +79,8 @@ Here is a small list of what is going to be installed so far:
 * [whatsapp](https://www.whatsapp.com/download/)
 * [messenger](https://www.messenger.com/)
 
-#### .installer/atom_packages.sh
+### Atom Packages 
+##### .installer/atom_packages.sh
 Atom Plugins:
 * [language-apache](https://atom.io/packages/language-apache)
 * [color-picker](https://atom.io/packages/color-picker)
@@ -94,6 +99,7 @@ Atom Skins:
 * [neutron-syntax](https://atom.io/themes/neutron-syntax)
 * [file-icons](https://atom.io/themes/file-icons)
 
-#### .installer/create_symlinks.sh
+### Symlink Creation 
+##### .installer/create_symlinks.sh
 Right now there is only the .zshrc dotfile to be symlinked
 * .zshrc

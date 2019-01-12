@@ -10,6 +10,7 @@ brews=(
     ruby
     rbenv
     wp-cli
+    yarn
 )
 
 # install specified system brews

@@ -9,6 +9,7 @@ brews=(
     node
     ruby
     rbenv
+    wp-cli
 )
 
 # install specified system brews
